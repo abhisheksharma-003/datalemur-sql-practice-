@@ -3,7 +3,7 @@
 **Platform:** DataLemur
 **Company:** Facebook
 **Difficulty:** Easy
-
+**Concepts:** GROUP BY, MIN/MAX, Date Functions
 ---
 
 ## Problem
