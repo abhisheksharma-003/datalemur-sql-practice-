@@ -3,7 +3,7 @@
 **Platform:** DataLemur
 **Company:** Tesla
 **Difficulty:** Easy
-**Concepts:** IS NULL, COALESCE()
+
 ---
 
 ## Problem

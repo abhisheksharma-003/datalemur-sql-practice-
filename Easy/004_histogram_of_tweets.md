@@ -3,7 +3,7 @@
 **Platform:** DataLemur
 **Company:** Twitter
 **Difficulty:** Easy
-**Concepts:** Subqueries, Derived Tables, Common Table Expressions (CTEs), Multi-Level Aggregation, GROUP BY, Date Range Filtering
+
 ---
 
 ## Problem

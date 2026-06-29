@@ -3,8 +3,8 @@
 **Platform:** DataLemur
 **Company:** Facebook
 **Difficulty:** Easy
-**Concepts:** Aggregation, CASE WHEN, GROUP BY
 
+---
 ## Problem
 
 Calculate the click-through rate (CTR) for each app in 2022. CTR is defined as:

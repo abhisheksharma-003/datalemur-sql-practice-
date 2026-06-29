@@ -3,7 +3,7 @@
 **Platform:** DataLemur
 **Company:** Facebook
 **Difficulty:** Easy
-**Concepts:** LEFT JOIN, Anti Join, IS NULL, NOT EXISTS, EXCEPT, NOT IN, ORDER BY
+
 ---
 
 ## Problem

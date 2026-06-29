@@ -3,7 +3,7 @@
 **Platform:** DataLemur
 **Company:** Microsoft
 **Difficulty:** Easy
-**Concepts:** AVG(), ROUND(), EXTRACT(), GROUP BY, ORDER BY, Date Functions
+
 ---
 
 ## Problem

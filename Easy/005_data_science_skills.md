@@ -3,7 +3,7 @@
 **Platform:** DataLemur
 **Company:** LinkedIn
 **Difficulty:** Easy
-**Concepts:** Filtering (`WHERE`), `IN`, `GROUP BY`, `HAVING`, Aggregate Functions (`COUNT`), Conditional Aggregation, `COUNT(DISTINCT)`, Sorting (`ORDER BY`)
+
 ---
 
 ## Problem

@@ -22,10 +22,10 @@ A curated collection of SQL interview problems solved using **PostgreSQL**. This
 
 | Difficulty | Solved |
 | ---------- | :----: |
-| Easy       |    3   |
+| Easy       |    9   |
 | Medium     |    0   |
 | Hard       |    0   |
-| **Total**  |  **3** |
+| **Total**  |  **9** |
 
 ---
 

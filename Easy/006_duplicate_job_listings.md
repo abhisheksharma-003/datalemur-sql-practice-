@@ -3,7 +3,6 @@
 **Platform:** DataLemur
 **Company:** LinkedIn
 **Difficulty:** Easy 
-**Concepts:** CTE, COUNT(), GROUP BY, COUNT(DISTINCT), HAVING, WHERE
 
 ---
 

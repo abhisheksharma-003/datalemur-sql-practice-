@@ -3,7 +3,6 @@
 **Platform:** DataLemur
 **Company:** Amazon
 **Difficulty:** Easy 
-**Concepts:** AVG(), ROUND(), EXTRACT(), GROUP BY, ORDER BY, Date Functions
 
 ---
 
