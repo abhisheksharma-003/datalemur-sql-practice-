@@ -1,8 +1,8 @@
 # Page With No Likes
 
-**Platform:** DataLemur 
-**Company:** Facebook 
-**Difficulty:** Easy 
+**Platform:** DataLemur  
+**Company:** Facebook  
+**Difficulty:** Easy  
 
 ---
 

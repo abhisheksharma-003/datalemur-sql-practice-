@@ -1,8 +1,8 @@
 # Laptop vs. Mobile Viewership
 
-**Platform:** DataLemur 
-**Company:** NY Times 
-**Difficulty:** Easy 
+**Platform:** DataLemur  
+**Company:** NY Times  
+**Difficulty:** Easy  
 
 ---
 

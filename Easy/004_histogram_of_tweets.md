@@ -1,8 +1,8 @@
 # Histogram of Tweets
 
-**Platform:** DataLemur 
-**Company:** Twitter 
-**Difficulty:** Easy 
+**Platform:** DataLemur  
+**Company:** Twitter  
+**Difficulty:** Easy  
 
 ---
 

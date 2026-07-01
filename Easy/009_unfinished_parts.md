@@ -1,8 +1,8 @@
 # Unfinished Parts
 
-**Platform:** DataLemur 
-**Company:** Tesla 
-**Difficulty:** Easy 
+**Platform:** DataLemur  
+**Company:** Tesla  
+**Difficulty:** Easy   
 
 ---
 

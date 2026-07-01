@@ -1,8 +1,8 @@
 # Cities With Completed Trades
 
-**Platform:** DataLemur 
-**Company:** Robinhood 
-**Difficulty:** Easy 
+**Platform:** DataLemur  
+**Company:** Robinhood  
+**Difficulty:** Easy  
 
 ---
 

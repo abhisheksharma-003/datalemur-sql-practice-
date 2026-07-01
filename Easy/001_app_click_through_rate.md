@@ -1,8 +1,8 @@
 # App Click-through Rate (CTR)
 
-**Platform:** DataLemur 
-**Company:** Facebook 
-**Difficulty:** Easy 
+**Platform:** DataLemur  
+**Company:** Facebook  
+**Difficulty:** Easy  
 
 ---
 ## Problem

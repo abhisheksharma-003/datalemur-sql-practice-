@@ -1,8 +1,8 @@
 # Average Review Ratings
 
-**Platform:** DataLemur 
-**Company:** Amazon 
-**Difficulty:** Easy  
+**Platform:** DataLemur  
+**Company:** Amazon  
+**Difficulty:** Easy   
 
 ---
 

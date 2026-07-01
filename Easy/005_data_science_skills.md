@@ -1,8 +1,8 @@
 # Data Science Skills
 
-**Platform:** DataLemur 
-**Company:** LinkedIn 
-**Difficulty:** Easy 
+**Platform:** DataLemur  
+**Company:** LinkedIn  
+**Difficulty:** Easy  
 
 ---
 
