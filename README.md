@@ -22,10 +22,10 @@ A curated collection of SQL interview problems solved using **PostgreSQL**. This
 
 | Difficulty | Solved |
 | ---------- | :----: |
-| Easy       |    9   |
+| Easy       |    14   |
 | Medium     |    0   |
 | Hard       |    0   |
-| **Total**  |  **9** |
+| **Total**  |  **14** |
 
 ---
 
@@ -62,7 +62,13 @@ A curated collection of SQL interview problems solved using **PostgreSQL**. This
 | 007 | DataLemur | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings)          | Easy       | Amazon    | AVG(), ROUND(), EXTRACT(), GROUP BY, ORDER BY, Date Functions                             | [View](Easy/007_average_review_ratings.md) |
 | 008 | DataLemur | [Teams Power Users](https://datalemur.com/questions/teams-power-users)                    | Easy       | Microsoft | COUNT(), EXTRACT(), GROUP BY, ORDER BY, LIMIT, Top-N Queries                              | [View](Easy/008_teams_power_users.md)      |
 | 009 | DataLemur | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts)                | Easy       | Tesla     | IS NULL, COALESCE()                                                                       | [View](Easy/009_unfinished_parts.md)       |
---- 
+| 010 | DataLemur | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership)    | Easy       | NY Times  | Conditional Aggregation, FILTER, CASE WHEN, COUNT(), GROUP BY, IN                          | [View](Easy/010_laptop_vs_mobile_viewership.md) |
+| 011 | DataLemur | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | Easy | Robinhood | Aggregate Functions, GROUP BY, COUNT(), ORDER BY, LIMIT, Top-N Queries | [View](Easy/011_cities_with_completed_trades.md) |
+| 012 | DataLemur | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | Easy | FAANG | Self Join, INNER JOIN, Table Aliases, WHERE, Comparison Operators, Employee–Manager Relationships | [View](Easy/012_well_paid_employess.md) |
+| 013 | DataLemur | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | Easy | PayPal | Aggregate Functions, CASE WHEN, SUM(), GROUP BY, Conditional Aggregation, Positive/Negative Value Transformation | [View](Easy/013_final_account_balance.md) | 
+| 014 | DataLemur | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | Easy | TikTok | INNER JOIN, Date Arithmetic, INTERVAL, WHERE, Equality Comparison, Filtering, Date Functions | [View](Easy/014_second_day_confirmation.md) | 
+
+---
 
 ## SQL Patterns
 
