@@ -1,8 +1,8 @@
 # Second Day Confirmation
 
-**Platform:** DataLemur  
-**Company:** TikTok  
-**Difficulty:** Easy  
+**Platform:** DataLemur
+**Company:** TikTok
+**Difficulty:** Easy
 
 ---
 

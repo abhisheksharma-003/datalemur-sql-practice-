@@ -1,8 +1,8 @@
 # Well Paid Employees
 
-**Platform:** DataLemur  
-**Company:** FAANG  
-**Difficulty:** Easy  
+**Platform:** DataLemur
+**Company:** FAANG
+**Difficulty:** Easy
 
 ---
 

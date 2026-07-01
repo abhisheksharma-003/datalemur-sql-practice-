@@ -1,8 +1,8 @@
 # Final Account Balance
 
-**Platform:** DataLemur  
-**Company:** PayPal  
-**Difficulty:** Easy  
+**Platform:** DataLemur
+**Company:** PayPal
+**Difficulty:** Easy
 
 ---
 
