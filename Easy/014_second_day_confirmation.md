@@ -290,4 +290,3 @@ Only rows satisfying **both** conditions are returned.
 - Date arithmetic makes it easy to compare events occurring a fixed number of days apart.
 - Multiple filtering conditions can be combined using `AND`.
 - Problems involving dates often require understanding how SQL handles date calculations and intervals.
-```
