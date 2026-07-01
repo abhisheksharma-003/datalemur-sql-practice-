@@ -1,8 +1,8 @@
 # Teams Power Users
 
-**Platform:** DataLemur
-**Company:** Microsoft
-**Difficulty:** Easy
+**Platform:** DataLemur 
+**Company:** Microsoft 
+**Difficulty:** Easy 
 
 ---
 

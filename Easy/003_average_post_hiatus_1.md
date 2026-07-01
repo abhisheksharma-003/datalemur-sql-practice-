@@ -1,8 +1,8 @@
 # Average Post Hiatus (Part 1)
 
-**Platform:** DataLemur
-**Company:** Facebook
-**Difficulty:** Easy
+**Platform:** DataLemur 
+**Company:** Facebook 
+**Difficulty:** Easy 
 
 ---
 

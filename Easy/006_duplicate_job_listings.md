@@ -1,7 +1,7 @@
 # Duplicate Job Listings
 
-**Platform:** DataLemur
-**Company:** LinkedIn
+**Platform:** DataLemur 
+**Company:** LinkedIn 
 **Difficulty:** Easy 
 
 ---
