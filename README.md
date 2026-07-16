@@ -66,7 +66,11 @@ A curated collection of SQL interview problems solved using **PostgreSQL**. This
 | 011 | DataLemur | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | Easy | Robinhood | Aggregate Functions, GROUP BY, COUNT(), ORDER BY, LIMIT, Top-N Queries | [View](Easy/011_cities_with_completed_trades.md) |
 | 012 | DataLemur | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | Easy | FAANG | Self Join, INNER JOIN, Table Aliases, WHERE, Comparison Operators, Employee–Manager Relationships | [View](Easy/012_well_paid_employess.md) |
 | 013 | DataLemur | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | Easy | PayPal | Aggregate Functions, CASE WHEN, SUM(), GROUP BY, Conditional Aggregation, Positive/Negative Value Transformation | [View](Easy/013_final_account_balance.md) | 
-| 014 | DataLemur | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | Easy | TikTok | INNER JOIN, Date Arithmetic, INTERVAL, WHERE, Equality Comparison, Filtering, Date Functions | [View](Easy/014_second_day_confirmation.md) | 
+| 014 | DataLemur | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | Easy | TikTok | INNER JOIN, Date Arithmetic, INTERVAL, WHERE, Equality Comparison, Filtering, Date Functions | [View](Easy/014_second_day_confirmation.md) |
+| 015 | DataLemur | [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-analytics) | Easy | IBM | LEFT JOIN, COALESCE, GROUP BY, DISTINCT, Date Range Filtering, Histogram | [View](Easy/015_IBM_db2_Analytics.md) |
+| 016 | DataLemur | [Cards Issued Difference](https://datalemur.com/questions/card-issued-difference) | Easy | JPMorgan Chase | Aggregate Functions, MAX(), MIN(), Arithmetic Operations, GROUP BY, ORDER BY | [View](Easy/016_card_issued_difference.md) |
+| 017 | DataLemur | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | Easy | Alibaba | Aggregate Functions, Weighted Average, Type Casting, Integer vs Decimal Division, Arithmetic Expressions, ROUND() | [View](Easy/017_compressed_mean.md) |
+
 
 ---
 
